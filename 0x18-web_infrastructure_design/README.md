@@ -1,0 +1,2 @@
+
+All files in this directory contain drawings of the relationships and interactions between client and server.

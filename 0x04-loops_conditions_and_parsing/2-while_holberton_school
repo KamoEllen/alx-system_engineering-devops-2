@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# This script is displaying "alx School" 10 times
+COUNTER=0
+while [ $COUNTER -lt 10 ]; do
+      echo alx School
+      let COUNTER=COUNTER+1
+done
